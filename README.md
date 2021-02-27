@@ -1,6 +1,9 @@
 # Commodus
-<hr>
+
 ## Description 
+<br><br><br>
+
+## Pain-points: 
 <br><br><br>
 
 ## Tech Stack:
