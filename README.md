@@ -1,8 +1,9 @@
 # Commodus
 
 ## Description
-COVID-19 has made us be home quarantined for almost an year, people, especially children need some sort of distraction to keep themselves sane. Most of the individuals irrespective of their age are on the verge of suffering from depression due to no or very less indulging activities. Commodus is a single player, open world Role-Playing-Game. It provides an immersive 3D gaming experience with extravagant graphics and gameplay that can fascinate and indulge any individual towards gaming. Commodus has to avoid the hazards and defeat the aliens lurking within the ancient ruins of his civilization.
+COVID-19 has made us be home quarantined for almost a year, people, especially children need some sort of distraction to keep themselves sane. Most of the individuals irrespective of their age are on the verge of suffering from depression due to no or very less indulging activities. Commodus is a single-player, open-world Role-Playing-Game. It provides an immersive 3D gaming experience with extravagant graphics and gameplay that can fascinate and indulge any individual towards gaming. Commodus has to avoid the hazards and defeat the aliens lurking within the ancient ruins of his civilization.
 <hr>
+
 ## Tech Stack:
 
 <table>
