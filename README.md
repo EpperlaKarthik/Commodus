@@ -45,6 +45,11 @@ COVID-19 has made us be home quarantined for almost a year, people, especially c
     <td><img src="https://github.com/EpperlaKarthik/Commodus/blob/main/Builds%202021.02.28%20-%2008.56.36.02.00_01_36_44.Still027.bmp"></td>
     <td><img src="https://github.com/EpperlaKarthik/Commodus/blob/main/Builds%202021.02.28%20-%2008.56.36.02.00_01_38_58.Still028.bmp"></td>
   </tr>
+ <br>
+  <br>
+  <tr>
+    <td><img src="https://github.com/EpperlaKarthik/Commodus/blob/main/Builds%202021.02.28%20-%2008.56.36.02.00_01_58_25.Still036.bmp" ></td>
+    </tr>
 </table>
 <hr>
 
