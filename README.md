@@ -24,6 +24,18 @@ COVID-19 has made us be home quarantined for almost a year, people, especially c
 * Terrain Tools
 <hr>
 
+## Previous work declaration:
+The game is made during the hackathon, but we have used few 3d models, vfx elements, environment scenes that we made earlier in the project.
+
+<hr>
+
+### Installation steps:
+* Open the drive link: 
+* Download "Builds" folder on your pc.
+* Run "Hackathon.exe" file and enjoy the game.
+
+<hr>
+
 ## Future developments:
 
 * Expand the reach of the game to all platforms(currently supports Windows) like Web, Android, and IOS.
@@ -32,14 +44,6 @@ COVID-19 has made us be home quarantined for almost a year, people, especially c
 * Add in-game store(Weapons, skins, characters, etc).
 * Our vision is to provide learning while gaming by the virtue of Commodus.
 <hr>
-
-
-## Previous work declaration:
-The game is made during the hackathon, but we have used few 3d models, vfx elements, environment scenes that we made earlier in the project.
-
-## Installation steps:
-Open the drive link, Download the "Builds" folder onto your computer. In the folder open "Hackathon.exe" file to play the game.
-
 
 ## Screenshots:
 <table>
@@ -66,4 +70,4 @@ Open the drive link, Download the "Builds" folder onto your computer. In the fol
 ## Demonstration video
 [![](http://img.youtube.com/vi/mHAXkOLb008/0.jpg)](http://www.youtube.com/watch?v=mHAXkOLb008 "Commodus")
 
-
+<hr>
