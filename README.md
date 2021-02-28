@@ -1,10 +1,10 @@
 # Commodus
 
-## Description
+## Description :globe_with_meridians:
 COVID-19 has made us be home quarantined for almost a year, people, especially children need some sort of distraction to keep themselves sane. Most of the individuals irrespective of their age are on the verge of suffering from depression due to no or very less indulging activities. Commodus is a single-player, open-world Role-Playing-Game. It provides an immersive 3D gaming experience with extravagant graphics and gameplay that can fascinate and indulge any individual towards gaming. Commodus has to avoid the hazards and defeat the aliens lurking within the ancient ruins of his civilization.
 <hr>
 
-## Tech Stack:
+## Tech Stack :computer: : 
 
 <table>
   <tr>
@@ -29,14 +29,14 @@ The game is made during the hackathon, but we have used few 3d models, vfx eleme
 
 <hr>
 
-### Installation steps:
+### Installation steps :point_down: :
 * Open the drive link: https://drive.google.com/drive/folders/1OcZRT1NVpiGnSVH82J4mcASSoqJatvYV
 * Download "Builds" folder on your pc.
 * Run "Hackathon.exe" file and enjoy the game.
 
 <hr>
 
-## Future developments:
+## Future developments :iphone: :
 
 * Expand the reach of the game to all platforms(currently supports Windows) like Web, Android, and IOS.
 * Add lobbies in multiplayer mode.
@@ -45,7 +45,7 @@ The game is made during the hackathon, but we have used few 3d models, vfx eleme
 * Our vision is to provide learning while gaming by the virtue of Commodus.
 <hr>
 
-## Screenshots:
+## Screenshots :bookmark: :
 <table>
   <tr>
     <td><img src="https://github.com/EpperlaKarthik/Commodus/blob/main/Builds%202021.02.28%20-%2008.56.36.02.00_00_11_02.Still001.bmp" ></td>
