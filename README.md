@@ -25,7 +25,7 @@ COVID-19 has made us be home quarantined for almost a year, people, especially c
 <hr>
 
 ## Previous work declaration:
-The game is made during the hackathon, but we have used few 3d models and vfx elements that we made earlier in the project.
+The game is made during the hackathon, but we have used few 3d models, vfx elements, environment scenes that we made earlier in the project.
 
 
 ## Future developments:
