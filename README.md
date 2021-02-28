@@ -30,7 +30,7 @@ The game is made during the hackathon, but we have used few 3d models, vfx eleme
 <hr>
 
 ### Installation steps:
-* Open the drive link: 
+* Open the drive link: https://drive.google.com/drive/folders/1OcZRT1NVpiGnSVH82J4mcASSoqJatvYV
 * Download "Builds" folder on your pc.
 * Run "Hackathon.exe" file and enjoy the game.
 
